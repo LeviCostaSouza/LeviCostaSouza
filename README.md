@@ -1,5 +1,5 @@
 <h1  align="center"> Seja bem-vindo ao meu GitHub! 👋 </h1> 
-Me Chamo Levi Costa Souza, tenho 22 anos, e sou natural de Feira de Santana - BA, atualmente cursando Analise e Desenvolvimneto de Sistemas na UNIFAN, sou um desenvolvedor em transição, migrando da area administrativa, com foco em linguagem Python, busco oportunidades para aplicar e expandir conhecimentos. Comprometido com o aprendizado contínuo e a melhoria da qualidade dos códigos, visando crescimento profissional na área de tecnologia. </h3>
+Me Chamo Levi Costa Souza, tenho 22 anos, e sou natural de Feira de Santana - BA, atualmente cursando Analise e Desenvolvimento de Sistemas na UNIFAN, sou um desenvolvedor em transição, migrando da area administrativa, com foco em linguagem Python, busco oportunidades para aplicar e expandir conhecimentos. Comprometido com o aprendizado contínuo e a melhoria da qualidade dos códigos, visando crescimento profissional na área de tecnologia. </h3>
 
 #
 - 📚 Atualmente estudando: **Python, Banco de Dados, FastAPI.**
